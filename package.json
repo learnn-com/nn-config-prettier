@@ -1,6 +1,6 @@
 {
   "name": "@learnn/nn-config-prettier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Learnn - Prettier Config",
   "main": "prettierrc.json",
   "license": "MIT",
