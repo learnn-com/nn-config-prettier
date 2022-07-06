@@ -1,0 +1,16 @@
+{
+  "name": "@learnn/nn-config-prettier",
+  "version": "1.0.0",
+  "description": "Learnn - Prettier Config",
+  "main": "prettierrc.json",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/learnn-com/nn-config-prettier"
+  },
+  "homepage": "https://github.com/learnn-com/nn-config-prettier"
+}
